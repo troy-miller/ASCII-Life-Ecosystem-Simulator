@@ -1,6 +1,6 @@
 # ASCII-Life-Ecosystem-Simulator
 
-Implementation of a small and simple ecosystem of rabbits using ASCII graphics. Rabbits require food and water to survive and can reproduce if those needs are met.
+Implementation of a small and simple ecosystem of rabbits using ASCII graphics (uses Trystan Spangler's AsciiPanel library https://github.com/trystan/AsciiPanel). Rabbits require food and water to survive and can reproduce if those needs are met.
 
 Features:
 - Mess with numbers in the start screen to create different types of simulations: initial number of rabbits, plants, and plant spawn rate can be altered
